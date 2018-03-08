@@ -12,7 +12,7 @@ module JobVacancy
         :address => 'smtp.gmail.com',
         :port => 587,
         :username => 'chamithlkml@gmail.com',
-        :password => 'Chootipuka88!@#',
+        :password => '',
         :authentication => :plain
     }
 
